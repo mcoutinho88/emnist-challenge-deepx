@@ -18,6 +18,7 @@ For the solution, the following was used:
    - 2 blocks of 2 convolutional layers followed by a 2x2 max-pooling 
 - Tensorflow and Keras
 - Python
+- Data Augmentation
 
 ## Results
 
